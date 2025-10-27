@@ -35,8 +35,8 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sijindavid&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sijindavid&theme=tokyonight" height="160" alt="streak"/>
 </p>
 
 ---
@@ -80,6 +80,10 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
   <a href="https://x.com/sijin211?s=21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+ <a href="> [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://t.me/sijin_david)
+  <a href=[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sijin-david-olang-makuachyourusername)"/>
+
+
 </p>
 
 ---
@@ -91,12 +95,6 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 
 ### 📱 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sijin-David-Olang-Makuach")
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sijin-david-olang-makuachyourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://t.me/sijin_david)
-
 <!--
 **Sijindavid/Sijindavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
