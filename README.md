@@ -2,13 +2,13 @@
 
 ### 📱 Connect with me
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="https://linkedin.com/in/Sijin-David-Olang-Makuach" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://twitter.com/yourusername" target="_blank">
+<a href="https://twitter.com/sijin-david-olang-makuach" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
 </a>
-<a href="https://instagram.com/yourusername" target="_blank">
+<a href="https://instagram.com/justsijin_" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
 </a> <br>
 
