@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Sijin David Olang Makuach
+# M y Name is Sijin David Olang Makuach
 Hello Developers this is my profile...!  <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Sijin%20👋&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header" />
@@ -94,7 +94,6 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 </p>
 
 
-### 📱 Connect with me
 <!--
 **Sijindavid/Sijindavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
