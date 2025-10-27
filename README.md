@@ -10,7 +10,7 @@
 </a>
 <a href="https://instagram.com/yourusername" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-</a>
+</a> <br>
 
 
 <!--
