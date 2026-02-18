@@ -7,9 +7,10 @@
 
 ## 👨‍💻 About Me  
 I’m a **Software Engineer** passionate about building **scalable web apps, interactive UIs, and automation tools**.  
-- 🌱 Currently sharpening my **C++ ,JavaScript & Python** skills.  
+- 🌱 Currently sharpening my **C++ ,Java , JavaScript and Python** skills.  
 - ⚡  My Fun fact is I debug faster with ☕ coffee in hand.  
-- 💬 Ask me about **web development, clean code, and tech hacks**.  
+- 💬 Ask me about **web development, clean code, and tech hacks**.
+- Happy To Connect..!
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
