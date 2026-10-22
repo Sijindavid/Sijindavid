@@ -1,15 +1,15 @@
-## Hello there...! 👋  <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Sijin%20👋&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Sijin%20&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+About Me  
 I’m a **Software Engineer** passionate about building **scalable web apps, interactive UIs, and automation tools**.  
-- 🌱 Currently sharpening my **C++ ,Java , JavaScript and Python** skills.  
-- ⚡  My Fun fact is I debug faster with ☕ coffee in hand.  
-- 💬 Ask me about **web development, clean code, and tech hacks**.
+- Currently sharpening my **C++ ,Java , JavaScript and Python** skills.  
+- My Fun fact is I debug faster with coffee in hand.  
+- Ask me about **web development, clean code, and tech hacks**.
 - Happy To Connect..!
 
 <p align="center">
@@ -18,11 +18,11 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 ---
 
-## 🛠️ Tech Stack  
+Tech Stack  
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php" height="40" alt="Frontend Skills" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=python,flask,django" height="40" alt="Backend Skills" />
   <!-- Tools -->
@@ -31,7 +31,7 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 ---
 
-## 📊 GitHub Stats  
+GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sijindavid&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
@@ -42,24 +42,24 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 
 
-## 🚀 Featured Projects  
+Featured Projects  
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 Portfolio Website](https://github.com/Sijindavid/portfolio) | A modern personal portfolio site | HTML, CSS, JS |
-| [⚡ Task Automation Scripts](https://github.com/Sijindavid/automation-scripts) | Python scripts that save time | Python |
-| [🎮 Mini JS Games](https://github.com/Sijindavid/js-games) | Fun browser-based games | JavaScript |
+| [Portfolio Website](https://github.com/Sijindavid/portfolio) | A modern personal portfolio site | HTML, CSS, JS |
+| [Task Automation Scripts](https://github.com/Sijindavid/automation-scripts) | Python scripts that save time | Python |
+| [Mini JS Games](https://github.com/Sijindavid/js-games) | Fun browser-based games | JavaScript |
 
 ---
 
-## 📝 Templates & Repos to Check Out  
-- 🔖 [Starter HTML Templates](https://github.com/Sijindavid/html-templates)  
-- 🎨 [CSS Styling Components](https://github.com/Sijindavid/css-snippets)  
-- ⚙️ [Reusable Python Utilities](https://github.com/Sijindavid/python-utils)  
+Templates & Repos to Check Out  
+- [Starter HTML Templates](https://github.com/Sijindavid/html-templates)  
+- [CSS Styling Components](https://github.com/Sijindavid/css-snippets)  
+- [Reusable Python Utilities](https://github.com/Sijindavid/python-utils)  
 
 ---
 
-## 💡 Random Dev Quote  
+Dev Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote"/>
@@ -67,7 +67,7 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 ---
 
-## 🤝 Connect With Me  
+Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sijin-david-olang-makuach-b562ba376?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">
@@ -81,7 +81,18 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
   </a>
  <a href="> [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://t.me/sijin_david)
   <a href=[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sijin-david-olang-makuachyourusername)"/>
-
+<!-- Instagram -->
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<!-- X (Twitter) -->
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<!-- Facebook -->
+<a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </p>
 
