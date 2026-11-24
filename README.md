@@ -53,7 +53,7 @@ Featured Projects
 ---
 
 Templates & Repos to Check Out  
-- [Starter HTML Templates](https://github.com/Sijindavid/html-templates)  
+- [Starter HTML Templates](https://github.com/Sijindavid/Quill)  
 - [CSS Styling Components](https://github.com/Sijindavid/css-snippets)  
 - [Reusable Python Utilities](https://github.com/Sijindavid/python-utils)  
 
