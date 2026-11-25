@@ -72,17 +72,6 @@ I'm interested in opportunities involving:
 
 I'm always open to connecting with developers, mentors, and organizations working on impactful technologies.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sijin-david-olang-makuach&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-david-olang-makuach&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=94A3B8" />
-</p>
-
----
-
 ##  Let's Connect
 
 <p>
